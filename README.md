@@ -1,4 +1,7 @@
 pmController
+
+A GUI with the Arduino driver for controlling the casting machine in two modes: Manual and Replay. 
+
 ============
 
 This project is for driving the pour machine
